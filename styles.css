@@ -1,0 +1,65 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    /* box-sizing: border-box; */
+}
+
+#nav1 {
+    padding-top: 0px;
+    padding: 0px;
+}
+
+#nav-main {
+    color: white;
+    padding-left: 20px;
+}
+
+.nav-link {
+    color: white;
+}
+
+#mainbar {
+    background-color: rgb(209, 34, 92);
+}
+
+#navbarSupportedContent {
+    padding-left: 48%;
+}
+
+#nav-tags {
+    color: white;
+}
+
+#acs-img {
+    width: 3000px;
+    height: 800px;
+    padding-top: 0px;
+    border-top-width: 0px;
+    
+}
+
+#part-three {
+    padding-top: 30px;
+}
+
+#button-1 {
+   
+    padding: 20px;
+    background-color: gray;
+}
+
+#part-4 {
+    width: 350px;
+    height: 350px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#part-4-b{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#formGroupExampleInput {
+    padding: 1rem 0.75rem;
+}               
